@@ -50,7 +50,7 @@
     "randomatic": "^3.1.1",
     "react": "^16.2.0",
     "react-bootstrap": "^0.32.1",
-    "react-dev-utils": "^4.2.3",
+    "react-dev-utils": "^11.0.4",
     "react-dom": "^16.8.6",
     "sshpk": "^1.16.1",
     "style-loader": "0.19.0",
